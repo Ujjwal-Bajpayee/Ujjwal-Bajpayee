@@ -1,4 +1,5 @@
-# 💫 About Me:
+- # 👋 Hi, I’m @Ujjwal-Prakash-Bajpayee
+- # 💫 About Me:
 🔭 I’m currently working on: ML projects<br>🤝 I’m looking to collaborate on: Open-source projects in Python<br>👐 I’m looking for help with: My ML journey<br>🌱 I’m currently learning: NLP (Natural Language Processing)
 
 
