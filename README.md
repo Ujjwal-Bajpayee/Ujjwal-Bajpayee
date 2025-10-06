@@ -11,16 +11,16 @@ Mixing models, logic, and a little chaos to create intelligent systems
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjwal-Bajpayee&layout=compact&theme=midnight-purple)](https://github.com/Ujjwal-Bajpayee/github-readme-stats)
 
 <p >
-    <img src="https://github-readme-stats.vercel.app/api?username=Ujjwal-Bajpayee&show_icons=true&theme=midnight-purple" alt="Swarada's GitHub stats" height="160"> 
+    <img src="https://github-readme-stats.vercel.app/api?username=Ujjwal-Bajpayee&show_icons=true&theme=midnight-purple" alt="Ujjwal's GitHub stats" height="160"> 
     &nbsp; &nbsp; 
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Ujjwal-Bajpayee&theme=midnight-purple" alt="Swarada's GitHub streak" height="160">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Ujjwal-Bajpayee&theme=midnight-purple" alt="Ujjwal's GitHub streak" height="160">
 </p>
 
 <br> <be>
 
 ## 🏆 GitHub Trophies 🏆
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=swarraaa&theme=darkhub&row=2&column=3&margin-w=20&margin-h=20)](https://github.com/Ujjwal-Bajpayee/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ujjwal-Bajpayee&theme=darkhub&row=2&column=3&margin-w=20&margin-h=20)](https://github.com/Ujjwal-Bajpayee/github-profile-trophy)
 
 ###  Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
