@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=Ujjwal-Bajpayee)
+
 #  About Me:
 Mixing models, logic, and a little chaos to create intelligent systems
 
