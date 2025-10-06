@@ -1,7 +1,13 @@
 [![MasterHead](https://github.blog/wp-content/uploads/2020/12/102393310-07478b80-3f8d-11eb-84eb-392d555ebd29.png?resize=1200%2C530)](https://Mohit138928.io)
 <h1 align="center">Hi <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" width="30"/>, I'm Ujjwal Prakash Bajpayee</h1>
 <h3 align="center">ML Engineer/Data Scientist from India</h3>
-<h4 align="center">Mixing models, logic, and a little chaos to create intelligent systems</h4>
+<h4 align="center">Mixing Models, Logic, and a Little Chaos to Create Intelligent Systems</h4>
+
+
+<div align="center" style="display:flex;flex-direction:row;align-items:center">
+</p>
+<img style="max-height: inherit; height:50px; "  src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" >
+
 
 ![](https://komarev.com/ghpvc/?username=Ujjwal-Bajpayee)
 
