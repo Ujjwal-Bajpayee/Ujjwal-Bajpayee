@@ -6,7 +6,7 @@
 
 <div align="center" style="display:flex;flex-direction:row;align-items:center">
 </p>
-<img style="max-height: inherit; height:50px; "  src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" >
+<img style="max-height: inherit; height:50px; "src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" >
 
 
 ![](https://komarev.com/ghpvc/?username=Ujjwal-Bajpayee)
