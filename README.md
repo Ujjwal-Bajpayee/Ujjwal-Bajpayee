@@ -41,9 +41,9 @@
     <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fujjwal-bajpayee%2F&subtitle=%40ujjwal-bajpayee&size=square&rounded=24" alt="LinkedIn" width="150">
   </a>&nbsp;&nbsp;&nbsp;
 
-  <a href="mailto:acad.ujjwalprakash02@gmail.com">
-    <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=acad.ujjwalprakash02%40gmail.com&subtitle=Email&size=square&rounded=24" alt="Email" width="150">
-  </a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:ujjwalprakash02@gmail.com">
+  <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=ujjwalprakash02%40gmail.com&subtitle=Email&size=square&rounded=24" alt="Email" width="150">
+</a>
 
   <a href="https://discordapp.com/users/ujjwal_bajpayee">
     <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fdiscordapp.com%2Fusers%2Fujjwal_bajpayee&subtitle=%40ujjwal_bajpayee&size=square&rounded=24" alt="Discord" width="150">
