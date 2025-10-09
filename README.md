@@ -25,14 +25,38 @@
 
 <br> <be>
 
+
 ## 🏆 GitHub Trophies 🏆
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ujjwal-Bajpayee&theme=darkhub&row=2&column=3&margin-w=20&margin-h=20)](https://github.com/Ujjwal-Bajpayee/github-profile-trophy)
 
+
 ###  Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+
+## Socials:
+<p align="center">
+  <a href="https://www.linkedin.com/in/ujjwal-bajpayee/">
+    <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fujjwal-bajpayee%2F&subtitle=%40ujjwal-bajpayee&size=square&rounded=24" alt="LinkedIn" width="150">
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="mailto:acad.ujjwalprakash02@gmail.com">
+    <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=acad.ujjwalprakash02%40gmail.com&subtitle=Email&size=square&rounded=24" alt="Email" width="150">
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://discordapp.com/users/ujjwal_bajpayee">
+    <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fdiscordapp.com%2Fusers%2Fujjwal_bajpayee&subtitle=%40ujjwal_bajpayee&size=square&rounded=24" alt="Discord" width="150">
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://github.com/Ujjwal-Bajpayee">
+    <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FUjjwal-Bajpayee&subtitle=%2FUjjwal-Bajpayee&size=square&rounded=24" alt="GitHub" width="150">
+  </a>
+</p>
+
+
 ---
+
 [![](https://visitcount.itsvg.in/api?id=Ujjwal-Bajpayee&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
