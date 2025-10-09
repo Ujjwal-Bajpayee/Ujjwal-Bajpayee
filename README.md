@@ -42,7 +42,7 @@
   </a>&nbsp;&nbsp;&nbsp;
 
   <a href="mailto:ujjwalprakash02@gmail.com">
-  <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=ujjwalprakash02%40gmail.com&subtitle=Email&size=square&rounded=24" alt="Email" width="150">
+  <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=ujjwalprakash02%40gmail.com&subtitle=ujjwalprakash02@gmail.com&size=square&rounded=24" alt="Email" width="150">
 </a>
 
   <a href="https://discordapp.com/users/ujjwal_bajpayee">
