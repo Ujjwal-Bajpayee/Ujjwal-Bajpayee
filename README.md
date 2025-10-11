@@ -1,4 +1,4 @@
-[![MasterHead](https://github.blog/wp-content/uploads/2020/12/102393310-07478b80-3f8d-11eb-84eb-392d555ebd29.png?resize=1200%2C530)](https://Mohit138928.io)
+[![An image of @ujjwalbajpayee's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ujjwalbajpayee)](https://holopin.io/@ujjwalbajpayee)
 <h1 align="center">Hi <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" width="30"/>, I'm Ujjwal Prakash Bajpayee</h1>
 <h3 align="center">ML Engineer/Data Scientist from India</h3>
 <h4 align="center">Mixing Models, Logic, and a Little Chaos to Create Intelligent Systems</h4>
