@@ -3,7 +3,6 @@
 <h3 align="center">ML Engineer/Data Scientist from India</h3>
 <h4 align="center">Mixing Models, Logic, and a Little Chaos to Create Intelligent Systems</h4>
 
-
 <div align="center" style="display:flex;flex-direction:row;align-items:center">
 </p>
 <img style="max-height: inherit; height:50px; "src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" >
