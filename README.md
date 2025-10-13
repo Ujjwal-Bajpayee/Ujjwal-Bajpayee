@@ -7,7 +7,6 @@
 </p>
 <img style="max-height: inherit; height:50px; "src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" >
 
-
 ![](https://komarev.com/ghpvc/?username=Ujjwal-Bajpayee)
 
 #  Tech Stack:
